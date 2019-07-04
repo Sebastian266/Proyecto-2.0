@@ -1,9 +1,9 @@
 
-# Objetivo Genera
+# Objetivo General
 
 Diseñar un sistema para el inventariado de los folios de graduados en el convenio universidad del Tolima. con el fin de optimizar el tiempo en los procesos de la institución educativa (uniminuto).
 
-** Específicos: **
+ # Específicos: 
 
 ● Identificar el método de inventario que más se adecue a las necesidades de la universidad.
 
